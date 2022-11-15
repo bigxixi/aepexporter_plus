@@ -1,0 +1,1 @@
+创建的报告: 	2022/11/14	GMT+8 09:20:44项目名: AEPdemo.aep将源文件收集到: 	/Users/bigxixi/Desktop/未命名文件夹/AEPdemo文件夹收集的源文件: 全部收集的合成: 	demo1	收集的文件数: 4收集的文件大小: 46 KB收集的源文件: 	/Users/bigxixi/Desktop/Temp/aep插件优化/A.png	/Users/bigxixi/Desktop/Temp/aep插件优化/E.png	/Users/bigxixi/Desktop/Temp/aep插件优化/P.png	/Users/bigxixi/Desktop/Temp/aep插件优化/smalltext.png	渲染增效工具:	经典 3D	
