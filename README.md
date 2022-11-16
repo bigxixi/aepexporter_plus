@@ -1,5 +1,9 @@
 # AEP Exporter Plus
-AEP流程中的AE动画导出脚本加强版  
+AEP流程中的AE动画导出脚本加强版。  
+视频介绍：  
+https://www.bilibili.com/video/BV1tP4y117cS/
+  
+  
 [<img src="https://raw.githubusercontent.com/bigxixi/aepexporter_plus/main/readme%E9%85%8D%E5%9B%BE/UI-%E4%B8%BB%E7%95%8C%E9%9D%A2.png" width="50%" height="30%">](https://github.com/bigxixi/aepexporter_plus)  
 
 原版脚本作者[@shrekshrek](https://github.com/shrekshrek),AEP动画具体规则和前端使用方法参见：  
