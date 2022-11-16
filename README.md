@@ -24,6 +24,9 @@ https://github.com/shrekshrek/aep
 预览文件需要和导出的项目文件夹在同一个目录（有点绕，意思是最好保持默认导出的文件结构）  
 默认是把THREE.js(r143)和AEP.js直接嵌入HTML文件中，可以点击最右边的小齿轮图标「⚙」修改为通过url引用。  
 
+导出的预览demo:  
+https://bigxixi.com/AEPdemo/demo1.html  
+
 [<img src="https://raw.githubusercontent.com/bigxixi/aepexporter_plus/main/readme%E9%85%8D%E5%9B%BE/UI-%E5%BC%95%E7%94%A8%E6%96%B9%E5%BC%8F.png" width="50%" height="30%">](https://github.com/bigxixi/aepexporter_plus)  
 [<img src="https://raw.githubusercontent.com/bigxixi/aepexporter_plus/main/readme%E9%85%8D%E5%9B%BE/UI-%E7%88%B6%E7%BA%A7%E6%8F%90%E7%A4%BA.png" width="50%" height="30%">](https://github.com/bigxixi/aepexporter_plus)  
 [<img src="https://raw.githubusercontent.com/bigxixi/aepexporter_plus/main/readme%E9%85%8D%E5%9B%BE/UI-%E8%BF%9B%E5%BA%A6%E6%9D%A1.png" width="50%" height="30%">](https://github.com/bigxixi/aepexporter_plus)  
